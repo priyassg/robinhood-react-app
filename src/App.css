@@ -1,20 +1,7 @@
-body{
+body {
   background-color: black;
 }
 
-.app_container{
+.app_container {
   display: flex;
-  height: 100%;
-}
-
-.newsfeed{
-  width: 65%;
-  background-color: lightblue;
-  height: 100%;
-}
-
-.stats{
-  width: 35%;
-  background-color: lightcoral;
-  height: 100%;
 }

@@ -13,8 +13,8 @@ export default function Header() {
             {/* Search */}
             <div className='search_container'>
                 {/* Search Icon */}
-                <SearchIcon color="primary" />
-                <input type='text'></input>
+                <SearchIcon color="white" />
+                <input type='text' placeholder='Search'></input>
             </div>
 
             <div className='menu_items'>
