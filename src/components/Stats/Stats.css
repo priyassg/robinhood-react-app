@@ -1,4 +1,16 @@
 .stats {
-    flex: 0.3;
-    background-color: red;
+    flex: 0.35;
+    border: 1px solid gray;
+    border-radius: 4px;
+    height: 706px;
+}
+
+.list-button {
+    border-bottom: 1px solid gray;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
 }
